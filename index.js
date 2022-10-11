@@ -13,27 +13,27 @@ const nextBtn = document.getElementById('next');
 //Music
 const songs = [
     {
-        name: 'Armaan Malik',
-        title:'YOU',
+        name: 'Armaan-Malik',
+        title:'You',
         artist:'Armaan Malik'
     },
     {
-        name: 'Armaan Malik 1',
+        name: 'Arman-Malik',
         title:'Pehla Pyaar',
-        artist:'Armaan Malik'
+        artist:'Arman Malik'
     },
     {
-        name: 'Atif Aslam',
+        name: 'Atif-Aslam',
         title:'Pehli Dafa',
         artist:'Atif Aslam'
     },
     {
-        name: 'Darshan Raval',
+        name: 'Darshan-Raval',
         title:'Tu Mileya',
         artist:'Darshan Raval'
     },
     {
-        name: 'Arijit singh',
+        name: 'Arijit-singh',
         title:'Kesariya',
         artist:'Arijit singh'
     }
